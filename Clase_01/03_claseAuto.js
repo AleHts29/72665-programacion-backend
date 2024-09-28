@@ -19,7 +19,7 @@ class Auto {
 
 // creamos instancia
 const miAuto1 = new Auto("Azul", "Mustang");
-const miAuto2 = new Auto("Negro", "Peugeot")
+const miAuto2 = new Auto("Negro", "306")
 console.log(miAuto1);
 console.log(miAuto2);
 
