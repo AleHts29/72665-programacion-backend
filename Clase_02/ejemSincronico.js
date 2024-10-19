@@ -16,4 +16,4 @@ function funC() {
     console.log(5);
 }
 
-funA()
+funA() // 1
