@@ -9,7 +9,7 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
 
-// simulamos databases (va ser uin array)
+// simulamos databases (un array)
 const users = []; // array de objetos usuarios
 
 // End points
