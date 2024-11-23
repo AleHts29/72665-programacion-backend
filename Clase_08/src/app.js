@@ -24,8 +24,6 @@ app.listen(PORT, () => {
 
 
 
-
-
 // Connect to MongoDB
 const URL_MONGO = 'mongodb+srv://c43395:admin@cluster0.lgoy2ny.mongodb.net/clase14?retryWrites=true&w=majority&appName=Cluster0'
 
